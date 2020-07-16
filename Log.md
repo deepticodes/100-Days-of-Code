@@ -7,4 +7,4 @@
 2. Learn GitHub https://youtu.be/nhNq2kIvi9s
 ### Day 2
 1. Learn HTML https://youtu.be/UB1O30fR-EE
-2. Learn CSS
+2. Learn CSS https://youtu.be/yfoY53QXEnI
