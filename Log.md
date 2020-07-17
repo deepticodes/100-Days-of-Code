@@ -8,3 +8,5 @@
 ### Day 2
 1. Learn HTML https://youtu.be/UB1O30fR-EE
 2. Learn CSS https://youtu.be/yfoY53QXEnI
+             https://youtu.be/r1xBCi5SOjw
+
