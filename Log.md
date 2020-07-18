@@ -10,3 +10,5 @@
 2. Learn CSS : [Link1](https://youtu.be/yfoY53QXEnI) [Link2](https://youtu.be/r1xBCi5SOjw)
 ### Day 3
 1. Learn GoLang : I actually did it from Progate; can refer this [Link](https://youtu.be/YS4e4q9oBaU)
+### Day 4
+1. Learn Javascript ES6 : [Link](https://youtu.be/WZQc7RUAg18)
